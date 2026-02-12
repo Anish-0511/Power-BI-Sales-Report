@@ -46,6 +46,8 @@ It helps understand business performance, trends, and key insights using interac
 ## 📷 Dashboard Preview
 
 <img width="1920" height="1080" alt="Screenshot (347)" src="https://github.com/user-attachments/assets/02a15a99-b49b-4377-996c-5c6111c487e9" />
+<img width="1920" height="1080" alt="Screenshot (346)" src="https://github.com/user-attachments/assets/7fb55104-fccd-4a94-9ad4-9e20819e6deb" />
+
 
 ---
 
